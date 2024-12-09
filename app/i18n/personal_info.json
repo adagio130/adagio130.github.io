@@ -1,0 +1,142 @@
+{
+    "en": {
+        "name": "YANG-HAN (Hank) CHENG",
+        "title": "Senior Backend Developer",
+        "introduce": "Seasoned software engineer with 7+ years of experience in software development, system design, and team leadership. Proficient in Go, Java, Python, Docker, and message brokers. Also a scuba enthusiast.",
+        "experience": [
+            {
+                "company": "Playsee",
+                "position": "Senior Backend Software Engineer",
+                "startDate": "2024-03",
+                "endDate": "2024-07",
+                "description": [
+                    "Description 1",
+                    "Description 2",
+                    "Description 3"
+                ]
+            },
+            {
+                "company": "Vertiv",
+                "position": "Software Engineer",
+                "startDate": "202-01-01",
+                "endDate": "2021-01-01",
+                "description": [
+                    "Description 1",
+                    "Description 2",
+                    "Description 3"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "school": "Tamkang University",
+                "degree": "Master",
+                "magor": "Computer Science and Information Engineering",
+                "description": [
+                    "Description 1"
+                ]
+            },
+            {
+                "school": "ShihChien University",
+                "degree": "Bachelor",
+                "major": "Business Administration in Information Management",
+                "description": [
+                    "Description 1"
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "name": "Skill 1",
+                "category": "Category 1"
+            },
+            {
+                "name": "Skill 2",
+                "category": "Category 1"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "date": "2020-01-01"
+            },
+            {
+                "name": "Certification 2",
+                "date": "2021-01-01"
+            }
+        ]
+    },
+    "zh-tw": {
+        "name": "鄭揚翰",
+        "title": "資深後端工程師",
+        "introduce": "",
+        "experience": [
+            {
+                "company": "Company 1",
+                "position": "Position 1",
+                "startDate": "2019-01-01",
+                "endDate": "2020-01-01",
+                "description": [
+                    "Description 1",
+                    "Description 2",
+                    "Description 3"
+                ]
+            },
+            {
+                "company": "Company 2",
+                "position": "Position 2",
+                "startDate": "2020-01-01",
+                "endDate": "2021-01-01",
+                "description": [
+                    "Description 1",
+                    "Description 2",
+                    "Description 3"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "school": "School 1",
+                "degree": "Degree 1",
+                "startDate": "2015-01-01",
+                "endDate": "2019-01-01",
+                "description": [
+                    "Description 1",
+                    "Description 2",
+                    "Description 3"
+                ]
+            },
+            {
+                "school": "School 2",
+                "degree": "Degree 2",
+                "startDate": "2019-01-01",
+                "endDate": "2023-01-01",
+                "description": [
+                    "Description 1",
+                    "Description 2",
+                    "Description 3"
+                ]
+            }
+        ],
+        "skills": [
+            {
+                "name": "Skill 1",
+                "category": "Category 1"
+            },
+            {
+                "name": "Skill 2",
+                "category": "Category 1"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Certification 1",
+                "date": "2020-01-01"
+            },
+            {
+                "name": "Certification 2",
+                "date": "2021-01-01"
+            }
+        ]
+    }
+}
